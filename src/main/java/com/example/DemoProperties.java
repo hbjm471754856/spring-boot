@@ -2,6 +2,7 @@ package com.example;
 
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Component;
 
 //该类为spring容器组建
